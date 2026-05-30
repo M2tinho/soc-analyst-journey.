@@ -25,8 +25,7 @@ Current focus: **SOC L1 fundamentals → OT/ICS security specialisation**
 > Where You could see a synthesis of what I learn during my working session.
 
 ### TryHackMe — SOC Level 1
-- [Room 01 — SOC Fundamentals](writeups/tryhackme/sal1-room-01.md)
-- [Room 02 — ...](writeups/tryhackme/sal1-room-02.md)
+- [SOC ](writeups/tryhackme)
 
 ### Labs
 - GRFICS (OT/ICS home lab) — *coming soon*
