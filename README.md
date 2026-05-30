@@ -14,7 +14,7 @@ Current focus: **SOC L1 fundamentals → OT/ICS security specialisation**
 
 | Track | Status | Progress |
 |---|---|---|
-| TryHackMe SAL1 | 🟢 Active | 2 rooms |
+| TryHackMe SAL1 | 🟢 Active | 3 rooms |
 | GRFICS Home Lab (OT/ICS) | 🔴 Not started | — |
 | OWASP Top 10 | ⚪ Planned | — |
 | CISA Free ICS Training | ⚪ Planned | — |
